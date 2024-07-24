@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Maryam-qureshi's Stats](https://github-readme-stats.vercel.app/api?username=Maryam-qureshi&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![Maryam-qureshi's Stats](https://github-readme-stats.vercel.app/api?username=Maryam-qureshi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Maryam-qureshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-qureshi&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+![Maryam-qureshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-qureshi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
